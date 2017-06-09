@@ -1,8 +1,4 @@
 
---test
-
---add test2
-
 DECLARE cursorUser CURSOR FOR
 SELECT	*
 FROM	_xlnm#_FilterDatabase
